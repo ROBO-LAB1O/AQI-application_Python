@@ -4,7 +4,7 @@
 * Displays **US AQI**, **European AQI**, **PM2.5**, **PM10**, **CO**, **NO₂**, **SO₂**, and **O₃**
 * Zero API keys required
 
-  ## 🚀 How to Run
+  ##  How to Run
 1. Install the required dependency:
    ```bash
    pip install -r requirements.txt
